@@ -52,6 +52,14 @@ h1 {
     text-align: center;
     color: white;
 }
+.contact {
+    background-color: #362E21;
+    color: #F9ECDB;
+}
+
+a.blue {
+    color: white;
+}
 #myBtn {
   display: run-in; /* Hidden by default */
   position: fixed; /* Fixed/sticky position */
